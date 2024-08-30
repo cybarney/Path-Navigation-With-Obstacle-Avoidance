@@ -1,0 +1,1 @@
+Utilizing two light sensors, a color sensor, a ultrasonic sensor and a FRDM kl46z programmed a robot to be able to follow different paths based upon it's start point. The program ensures the robot stays within lines specified on the obstacle course and is able to avoid any obstacle that it may encounter on the course.
